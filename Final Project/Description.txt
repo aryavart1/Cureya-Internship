@@ -1,0 +1,6 @@
+Our Chabot is a conversational system that can be used in predicting diseases by generating automated responses to a user’s
+input in real-time. It uses a selection of machine learning algorithms to produce different types of responses. 
+The Chatbot will first ask your name, age, sex and after that, it predicts the disease by first asking the main symptom than the secondary symptom.
+After predicting the disease it also gives you the description of the disease and what precautions you should take after it. 
+This chatbot in health care has the potential to provide patients with access to immediate medical information and recommend precaution at the first sign of illness.
+The real benefit of this chatbot is to provide advice and information for a healthy life.
